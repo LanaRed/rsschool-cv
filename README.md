@@ -1,2 +1,2 @@
 # rsschool-cv
-https://LanaRed.github.io/rsschool-cv/cv
+https://LanaRed.github.io/rsschool-cv/
