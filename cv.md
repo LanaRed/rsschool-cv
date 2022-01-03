@@ -6,7 +6,7 @@
 3. **GitHub:** [LanaRed](https://github.com/LanaRed)
 
 ## About Me
-Currently I have three high education: management, linguistics and journalism and communication. All of them helped me to develop different skills such as patience, flexibility, being thirsty for knowledge and never leave tasks unfinished. I am very capable to learn new things even thought they are completely different from what I have already learnt. After working as a private tutor, language teacher, tourist guide and cybersport journalist I found out that I still miss something and it is not really what I am passionate about. That's how I started to get interested into code and IT-technology. I found out that I really want to learn, to improve and to develop in this area of modern world. 
+Currently I have three high education: management, linguistics, journalism and communication. All of them helped me to develop different skills such as patience, flexibility, being thirsty for knowledge and never leaving tasks unfinished. I am very capable of learning new things even though they are completely different from what I have already learnt. After working as a private tutor, language teacher, tourist guide and cybersport journalist I found out that I still miss something and it is not really what I am passionate about. That's how I started to get interested in code and IT-technology. I found out that I really want to learn, to improve and to develop in this area of modern world. 
 
 ## Skills and Proficiency:
 * HTML5 Basic
